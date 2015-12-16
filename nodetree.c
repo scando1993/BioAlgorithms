@@ -15,7 +15,7 @@
  *		2004/07/15 (Marisol Villacres):	Version original 
  *		2004/07/28 (Marisol Villacres):	Se le a�adio un campo clave al nodo y
  *										debido a esto cambiaron las implementaciones
- *										de la busqueda, insercion y eliminacion
+ *										de la busqueda, insercion y eliminacion1
  */
 
 
